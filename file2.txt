@@ -1,1 +1,2 @@
 Hello i am from local repo. in this i am trying to connect remote repo through ssh .
+Hi i am from ec2 instance safely pushing through ssh.
